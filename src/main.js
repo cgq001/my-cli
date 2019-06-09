@@ -5,7 +5,9 @@
 require('babel-runtime/regenerator')
 require('./main.css')
 require('./index.html')
-
+require('./main.sass')
+require('./main.less')
+require('./main.styl')
 let a=async ()=>{
 	let a='a'
 	let b='b'
